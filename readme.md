@@ -7,7 +7,7 @@
 
 ## 每周日世界切换日志
 
-见文档 [WS 世界切换日志](world-switch.log)
+见文档 [WS 世界切换日志](world-switch.log.md)
 
 
 ## 玩家拉黑和请出日志
